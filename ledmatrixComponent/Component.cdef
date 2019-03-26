@@ -1,0 +1,12 @@
+sources:
+{
+	ledmatrix.c
+}
+
+provides:
+{
+	api:
+	{
+		$CURDIR/../ma_ledmatrix.api
+	}
+}
